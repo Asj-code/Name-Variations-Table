@@ -1,4 +1,4 @@
-## Name-Variations-Table
+## Name Variations Table
 
 > *First JavaScript Coding Challenge*  
 
